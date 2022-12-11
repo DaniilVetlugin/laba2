@@ -1,0 +1,35 @@
+* {
+margin: 0;
+padding: 0;
+}
+header{
+	width: 100%; 
+	height: 115px;
+	background-color: MediumAquamarine;
+
+	}
+nav {
+margin: 0 auto; 
+width: 650px; 
+height: 60px;
+background-color: MediumSlateBlue;
+}
+#block1 {
+	background-color: white;
+	width: 100%; 
+height: 500px;
+}
+#block2 {
+	background-color: PaleGreen;
+	width: 100%; 
+height: 500px;
+}
+footer {
+width: 100%; 
+height: 95px;
+background-color: HotPink;
+float: right;
+position: absolute;
+bottom: 0;
+
+}
